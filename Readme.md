@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MyDP.png" alt="Muhammad Rehma" />
+  <img src="https://github.com/MuhammdRehman/MuhammdRehman/blob/main/MyDp.png" alt="Muhammad Rehma" />
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/muhammad-rehman-196bb5263/">Muhammad Rehman</a> 
