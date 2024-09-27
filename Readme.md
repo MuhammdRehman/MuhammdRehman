@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="MyDP.png" alt="bazilsuhail" />
+  <img src="MyDP.png" alt="Muhammad Rehma" />
 </p>
 
-<h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Muhammad Rehman</a> 
+<h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/muhammad-rehman-196bb5263/">Muhammad Rehman</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled  
   
 <h2 align="center" justify="center" >
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer" />
 </h2>    
 
-<a href="https://github.com/BazilSuhail"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
+<a href="https://github.com/MuhammdRehman"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=MuhammdRehman&style=flat-square" width="125"/></a>
 ## 👨🏻‍🎓 About Me
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects. Let's connect and create something amazing!
 
