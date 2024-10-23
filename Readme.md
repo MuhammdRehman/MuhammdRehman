@@ -2,7 +2,6 @@
   <img src="https://github.com/MuhammdRehman/MuhammdRehman/blob/main/MyDp.png" alt="Muhammad Rehma" />
 </p>
 
-
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/muhammad-rehman-196bb5263/">Muhammad Rehman</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled  
   
