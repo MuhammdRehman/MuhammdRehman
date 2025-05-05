@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/MuhammdRehman/MuhammdRehman/blob/main/profile_Banner.png" alt="Muhammad Rehma" />
+  <img src="https://github.com/MuhammdRehman/MuhammdRehman/blob/main/profile_Banner.png" alt="Muhammad Rehman" />
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/muhammad-rehman-196bb5263/">Muhammad Rehman</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled  
   
 <h2 align="center" justify="center" >
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer;+ML/DL Enthusiast" />
 </h2>    
 
 <a href="https://github.com/MuhammdRehman"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=MuhammdRehman&style=flat-square" width="125"/></a>
